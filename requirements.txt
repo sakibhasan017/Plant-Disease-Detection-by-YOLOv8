@@ -1,4 +1,6 @@
-ultralytics
 streamlit
-pillow
+ultralytics
 numpy
+Pillow
+opencv-python-headless
+roboflow
