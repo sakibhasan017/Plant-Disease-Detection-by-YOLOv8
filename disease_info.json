@@ -1,0 +1,122 @@
+{
+  "Apple Scab Leaf": {
+    "cause": "Fungal infection caused by Venturia inaequalis.",
+    "cure": "Apply fungicides containing mancozeb or captan, and remove infected leaves."
+  },
+  "Apple leaf": {
+    "cause": "This is a healthy apple leaf.",
+    "cure": "No treatment required."
+  },
+  "Apple rust leaf": {
+    "cause": "Fungal disease caused by Gymnosporangium species.",
+    "cure": "Remove nearby juniper plants and apply preventive fungicides."
+  },
+  "Bell_pepper leaf spot": {
+    "cause": "Bacterial infection by Xanthomonas campestris.",
+    "cure": "Use copper-based fungicide and avoid overhead watering."
+  },
+  "Bell_pepper leaf": {
+    "cause": "This is a healthy bell pepper leaf.",
+    "cure": "No treatment required."
+  },
+  "Blueberry leaf": {
+    "cause": "This is a healthy blueberry leaf.",
+    "cure": "No treatment required."
+  },
+  "Cherry leaf": {
+    "cause": "This is a healthy cherry leaf.",
+    "cure": "No treatment required."
+  },
+  "Corn Gray leaf spot": {
+    "cause": "Fungal infection by Cercospora zeae-maydis.",
+    "cure": "Use resistant varieties and apply strobilurin fungicides."
+  },
+  "Corn leaf blight": {
+    "cause": "Fungal disease caused by Bipolaris maydis.",
+    "cure": "Use fungicide and rotate crops annually."
+  },
+  "Corn rust leaf": {
+    "cause": "Puccinia sorghi fungal infection.",
+    "cure": "Apply fungicides early in crop growth."
+  },
+  "Peach leaf": {
+    "cause": "This is a healthy peach leaf.",
+    "cure": "No treatment required."
+  },
+  "Potato leaf early blight": {
+    "cause": "Fungal infection caused by Alternaria solani.",
+    "cure": "Apply chlorothalonil or mancozeb fungicide."
+  },
+  "Potato leaf late blight": {
+    "cause": "Oomycete pathogen Phytophthora infestans.",
+    "cure": "Use systemic fungicides and destroy infected plants."
+  },
+  "Potato leaf": {
+    "cause": "This is a healthy potato leaf.",
+    "cure": "No treatment required."
+  },
+  "Raspberry leaf": {
+    "cause": "This is a healthy raspberry leaf.",
+    "cure": "No treatment required."
+  },
+  "Soyabean leaf": {
+    "cause": "This is a healthy soybean leaf.",
+    "cure": "No treatment required."
+  },
+  "Soybean leaf": {
+    "cause": "Soybean rust caused by Phakopsora species.",
+    "cure": "Apply triazole or strobilurin fungicides."
+  },
+  "Squash Powdery mildew leaf": {
+    "cause": "Fungal infection by Erysiphe cichoracearum.",
+    "cure": "Apply sulfur spray or potassium bicarbonate."
+  },
+  "Strawberry leaf": {
+    "cause": "This is a healthy strawberry leaf.",
+    "cure": "No treatment required."
+  },
+  "Tomato Early blight leaf": {
+    "cause": "Alternaria solani fungal infection.",
+    "cure": "Apply copper fungicide and remove damaged lower leaves."
+  },
+  "Tomato Septoria leaf spot": {
+    "cause": "Fungal pathogen Septoria lycopersici.",
+    "cure": "Use fungicides and improve air circulation."
+  },
+  "Tomato leaf bacterial spot": {
+    "cause": "Bacterial pathogen Xanthomonas campestris pv. vesicatoria.",
+    "cure": "Apply copper spray and use disease-free seeds."
+  },
+  "Tomato leaf late blight": {
+    "cause": "Phytophthora infestans infection.",
+    "cure": "Use systemic fungicide like metalaxyl."
+  },
+  "Tomato leaf mosaic virus": {
+    "cause": "Tobacco mosaic virus infection.",
+    "cure": "Remove infected plants and sanitize tools."
+  },
+  "Tomato leaf yellow virus": {
+    "cause": "Tomato yellow leaf curl virus spread by whiteflies.",
+    "cure": "Use insecticides and resistant varieties."
+  },
+  "Tomato leaf": {
+    "cause": "This is a healthy tomato leaf.",
+    "cure": "No treatment required."
+  },
+  "Tomato mold leaf": {
+    "cause": "Gray mold caused by Botrytis cinerea.",
+    "cure": "Improve ventilation and apply fungicide."
+  },
+  "Tomato two spotted spider mites leaf": {
+    "cause": "Spider mite infestation.",
+    "cure": "Use miticides or spray neem oil."
+  },
+  "grape leaf black rot": {
+    "cause": "Fungus Guignardia bidwellii.",
+    "cure": "Apply fungicide and remove infected leaves."
+  },
+  "grape leaf": {
+    "cause": "This is a healthy grape leaf.",
+    "cure": "No treatment required."
+  }
+}
