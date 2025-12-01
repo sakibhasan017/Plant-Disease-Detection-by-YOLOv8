@@ -19,7 +19,7 @@
 
 You can deploy your own version or run locally:
 
-![Plant Doctor AI Screenshot](screenshot.png)  <!-- Optional screenshot -->
+Go to [Live Demo](https://plant-disease-detection-by-yolov8.streamlit.app/). 
 
 ---
 
@@ -101,5 +101,7 @@ roboflow
 ## Notes
 
 - Ensure `best.pt` (YOLOv8 model) is present in the project directory.  
+- `labels.txt` is included in the project and contains all 30 class names for reference or future use.  
 - For large images, inference may take a few seconds.  
 - The app supports multiple leaf detections and prints each disease **once**.  
+
