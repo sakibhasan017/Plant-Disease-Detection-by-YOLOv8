@@ -129,7 +129,7 @@ st.markdown(
     <div class="app-header">
       <div class="logo">🌿</div>
       <div>
-        <div class="title">Plant Doctor AI</div>
+        <div class="title">Plant Disease Detection</div>
         <div class="subtitle">Upload a photo of your plant leaves — instant diagnosis & treatment tips</div>
       </div>
     </div>
