@@ -1,7 +1,8 @@
-torch==2.1.0
-streamlit==1.36.0
-ultralytics==8.0.196
-numpy==1.26.4
-Pillow==10.3.0
-opencv-python-headless==4.9.0.80
-requests==2.32.3
+streamlit
+ultralytics
+numpy
+Pillow
+opencv-python-headless
+roboflow
+request
+torch
